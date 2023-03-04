@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` render a car scrrenshot 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img-top"
+    src="holder.js/100px180"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+       
+    </div>
+    <p
+      className="card-text"
+    />
+    <a
+      href=""
+    >
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        type="button"
+      >
+        Repositories
+      </button>
+    </a>
+  </div>
+</div>
+`;
